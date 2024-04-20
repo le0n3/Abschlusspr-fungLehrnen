@@ -3,3 +3,4 @@
 Hier befindet sich ein Obsidian Volt in dem:
 - alle möglichen Infos als Zusammen Fassungen für die Abschlussprüfung erstellt wurden
 - zudem werden anhand von Prüfung Beispielen Lösungen entwickelt 
+- 
